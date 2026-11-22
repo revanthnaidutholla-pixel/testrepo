@@ -1,2 +1,2 @@
 # testrepo
-creating test repo for demo use
+used in november in 2005 fall  semester.
